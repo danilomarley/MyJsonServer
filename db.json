@@ -1,4 +1,4 @@
-
+{
   "Infos": [
 
     { "id": 1, "title": "Post 1" },
@@ -22,3 +22,4 @@
     "name": "typicode"
 
   }
+}
