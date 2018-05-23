@@ -1,16 +1,24 @@
-{
-  "array": [
-    1,
-    2,
-    3
+
+  "Infos": [
+
+    { "id": 1, "title": "Post 1" },
+
+    { "id": 2, "title": "Post 2" },
+
+    { "id": 3, "title": "Post 3" }
+
   ],
-  "boolean": true,
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d",
-    "e": "f"
-  },
-  "string": "Hello World"
-}
+
+  "Enchant": [
+
+    { "id": 1, "body": "some comment", "postId": 1 },
+
+    { "id": 2, "body": "some comment", "postId": 1 }
+
+  ],
+
+  "BossTimer": {
+
+    "name": "typicode"
+
+  }
