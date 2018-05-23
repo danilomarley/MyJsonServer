@@ -1,11 +1,18 @@
 {
-  "Infos": [
+  "Info": [
 
-    { "id": 1, "title": "Post 1" },
+    { 
+     "Version": "491v",
+     "EXP": "50x",
+     "Drop": "25x",
+     "Fishing": "10x",
+     "Gathering": "25x",
+     "Karma": "10x",
+     "Mount": "200x",
+     "Skill": "200x"
+     "Life": "10x"
+    }
 
-    { "id": 2, "title": "Post 2" },
-
-    { "id": 3, "title": "Post 3" }
 
   ],
 
