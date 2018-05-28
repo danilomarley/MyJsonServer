@@ -26,16 +26,16 @@
     { "Enchant": 6, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
     { "Enchant": 7, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
     { "Enchant": 8, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
-    { "Enchant": 9, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":90   },
+    { "Enchant": 9, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":90    },
     { "Enchant": 10, "MaxFailStack":0, "FailStackChance": 1, "BaseChance":80   },
     { "Enchant": 11, "MaxFailStack":0, "FailStackChance": 1, "BaseChance":75   },
     { "Enchant": 12, "MaxFailStack":0, "FailStackChance": 1, "BaseChance":70   },
     { "Enchant": 13, "MaxFailStack":3, "FailStackChance": 1, "BaseChance":69   },
     { "Enchant": 14, "MaxFailStack":7, "FailStackChance": 1, "BaseChance":68   },
-    { "Enchant": 15, "MaxFailStack":12, "FailStackChance": 1, "BaseChance":60   },
-    { "Enchant": 16, "MaxFailStack":20, "FailStackChance": 1, "BaseChance":58   },
-    { "Enchant": 17, "MaxFailStack":20, "FailStackChance": 1, "BaseChance":56   },
-    { "Enchant": 18, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":10   },
+    { "Enchant": 15, "MaxFailStack":12, "FailStackChance": 1, "BaseChance":60  },
+    { "Enchant": 16, "MaxFailStack":20, "FailStackChance": 1, "BaseChance":58  },
+    { "Enchant": 17, "MaxFailStack":20, "FailStackChance": 1, "BaseChance":56  },
+    { "Enchant": 18, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":10  },
     { "Enchant": 19, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":4   },
     { "Enchant": 20, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":2   }
   ],
@@ -49,17 +49,17 @@
     { "Enchant": 6, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
     { "Enchant": 7, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
     { "Enchant": 8, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
-    { "Enchant": 9, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":90   },
+    { "Enchant": 9, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":90    },
     { "Enchant": 10, "MaxFailStack":0, "FailStackChance": 1, "BaseChance":80   },
     { "Enchant": 11, "MaxFailStack":0, "FailStackChance": 1, "BaseChance":75   },
     { "Enchant": 12, "MaxFailStack":0, "FailStackChance": 1, "BaseChance":70   },
     { "Enchant": 13, "MaxFailStack":3, "FailStackChance": 1, "BaseChance":69   },
     { "Enchant": 14, "MaxFailStack":7, "FailStackChance": 1, "BaseChance":68   },
-    { "Enchant": 15, "MaxFailStack":12, "FailStackChance": 1, "BaseChance":60   },
-    { "Enchant": 16, "MaxFailStack":20, "FailStackChance": 1, "BaseChance":50   },
-    { "Enchant": 17, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":45   },
+    { "Enchant": 15, "MaxFailStack":12, "FailStackChance": 1, "BaseChance":60  },
+    { "Enchant": 16, "MaxFailStack":20, "FailStackChance": 1, "BaseChance":50  },
+    { "Enchant": 17, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":45  },
     { "Enchant": 18, "MaxFailStack":30, "FailStackChance": 1, "BaseChance":4   },
-    { "Enchant": 19, "MaxFailStack":30, "FailStackChance": 1, "BaseChance":2.5   },
+    { "Enchant": 19, "MaxFailStack":30, "FailStackChance": 1, "BaseChance":2.5 },
     { "Enchant": 20, "MaxFailStack":30, "FailStackChance": 1, "BaseChance":1   }
   ],
   
@@ -68,18 +68,18 @@
     { "Enchant": 2, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":30   },
     { "Enchant": 3, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
     { "Enchant": 4, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
-    { "Enchant": 5, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":7   }
+    { "Enchant": 5, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":7    }
   ],
 
   "BossTimer": [
 
-    {"name": "Dim", "time": "05:00"},
-    {"name": "Bheg", "time": "04:30"},
-    {"name": "Karanda", "time": "04:00"},
-    {"name": "Kutum", "time": "03:03"},
-    {"name": "Nouver", "time": "05:00"},
+    {"name": "Dim", "time": "05:00"     },
+    {"name": "Bheg", "time": "04:30"    },
+    {"name": "Karanda", "time": "04:00" },
+    {"name": "Kutum", "time": "03:03"   },
+    {"name": "Nouver", "time": "05:00"  },
     {"name": "Red Nose", "time": "04:00"},
-    {"name": "Kzarka", "time": "04:40"}
+    {"name": "Kzarka", "time": "04:40"  }
 
   ],
   
