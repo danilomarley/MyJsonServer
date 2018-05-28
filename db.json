@@ -24,7 +24,7 @@
 
   ],
 
-  "BossTimer": {
+  "BossTimer": [
 
     {"name": "Dim", "time": "05:00"},
     {"name": "Bheg", "time": "04:30"},
@@ -34,5 +34,5 @@
     {"name": "Red Nose", "time": "04:00"},
     {"name": "Kzarka", "time": "04:40"},
 
-  }
+  ]
 }
