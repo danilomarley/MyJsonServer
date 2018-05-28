@@ -16,7 +16,7 @@
 
   ],
 
-  "Enchantment": [
+  "Enchantment_Armor_Acessory": [
 
     { "Type":"Armor", "Enchant": 1, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
     { "Type":"Armor", "Enchant": 2, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
@@ -38,7 +38,15 @@
     { "Type":"Armor", "Enchant": 18, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":10  },
     { "Type":"Armor", "Enchant": 19, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":4   },
     { "Type":"Armor", "Enchant": 20, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":2   },
-    
+
+    { "Type":"Acessory", "Enchant": 1, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":60   },
+    { "Type":"Acessory", "Enchant": 2, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":30   },
+    { "Type":"Acessory", "Enchant": 3, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
+    { "Type":"Acessory", "Enchant": 4, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
+    { "Type":"Acessory", "Enchant": 5, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":7    }
+  ],
+  
+  "Enchantment_Weapon":[
     { "Type":"Weapon", "Enchant": 1, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
     { "Type":"Weapon", "Enchant": 2, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
     { "Type":"Weapon", "Enchant": 3, "MaxFailStack":0, "FailStackChance": 0, "BaseChance":100   },
@@ -58,14 +66,9 @@
     { "Type":"Weapon", "Enchant": 17, "MaxFailStack":25, "FailStackChance": 1, "BaseChance":45  },
     { "Type":"Weapon", "Enchant": 18, "MaxFailStack":30, "FailStackChance": 1, "BaseChance":4   },
     { "Type":"Weapon", "Enchant": 19, "MaxFailStack":30, "FailStackChance": 1, "BaseChance":2.5 },
-    { "Type":"Weapon", "Enchant": 20, "MaxFailStack":30, "FailStackChance": 1, "BaseChance":1   },
-    
-    { "Type":"Acessory", "Enchant": 1, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":60   },
-    { "Type":"Acessory", "Enchant": 2, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":30   },
-    { "Type":"Acessory", "Enchant": 3, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
-    { "Type":"Acessory", "Enchant": 4, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
-    { "Type":"Acessory", "Enchant": 5, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":7    }
+    { "Type":"Weapon", "Enchant": 20, "MaxFailStack":30, "FailStackChance": 1, "BaseChance":1   }
   ],
+  
 
   "BossTime": [
 
