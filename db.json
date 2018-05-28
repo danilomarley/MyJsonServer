@@ -71,7 +71,7 @@
     { "Enchant": 5, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":7    }
   ],
 
-  "BossTimer": [
+  "BossTime": [
 
     {"name": "Dim", "time": "05:00"     },
     {"name": "Bheg", "time": "04:30"    },
@@ -83,7 +83,7 @@
 
   ],
   
-  "ServerLastStart":[
+  "Server":[
     {
       "Start": "27/05/2018 23:05:00",
       "Status": "Online"
