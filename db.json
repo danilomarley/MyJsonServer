@@ -62,9 +62,9 @@
     
     { "Type":"Acessory", "Enchant": 1, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":60   },
     { "Type":"Acessory", "Enchant": 2, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":30   },
-    { "Type":"Acessory" "Enchant": 3, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
-    { "Type":"Acessory" "Enchant": 4, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
-    { "Type":"Acessory" "Enchant": 5, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":7    }
+    { "Type":"Acessory", "Enchant": 3, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
+    { "Type":"Acessory", "Enchant": 4, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":10   },
+    { "Type":"Acessory", "Enchant": 5, "MaxFailStack":10, "FailStackChance": 1, "BaseChance":7    }
   ],
 
   "BossTime": [
