@@ -81,5 +81,12 @@
     {"name": "Red Nose", "time": "04:00"},
     {"name": "Kzarka", "time": "04:40"}
 
+  ],
+  
+  "ServerLastStart":[
+    {
+      "Start": "27/05/2018 23:05:00",
+      "Status": "Online"
+    }
   ]
 }
