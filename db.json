@@ -70,16 +70,13 @@
   ],
   
 
-  "BossTime": [
+  "Clinics": [
 
-    {"Name": "Dim",      "Time": 5.0   },
-    {"Name": "Bheg",     "Time": 4.30  },
-    {"Name": "Karanda",  "Time": 4.0   },
-    {"Name": "Kutum",    "Time": 3.03  },
-    {"Name": "Nouver",   "Time": 5.0   },
-    {"Name": "Red Nose", "Time": 4.0   },
-    {"Name": "Kzarka",   "Time": 4.40  }
-
+    {"Name": "Vetclinic", "Location_Lat": 5.0 , "Location_Long": 5.0, "Telephone": (85) 3232-5108, "City": "Fortaleza-CE" , "Address": "Av. Américo Barreira, 6360 - Parangaba"  },
+    {"Name": "Petsanus Clinical", "Location_Lat": 5.0 , "Location_Long": 5.0, "Telephone": (85) 3298-3266, "City": "Fortaleza-CE" , "Address": "Av. Godofredo Marciel, 4000 - Mondubim"  },
+    {"Name": "Dog Vet", "Location_Lat": 5.0 , "Location_Long": 5.0, "Telephone": (85) 9 9812-0008, "City": "Fortaleza-CE" , "Address": "Av. Godofredo Maciel, 2177 - Maraponga"  },
+    {"Name": "Canis Felis", "Location_Lat": 5.0 , "Location_Long": 5.0, "Telephone": (85) 3489-3636, "City": "Fortaleza-CE" , "Address": "St. Cento Sete, 11 - Conjunto Ceará"  },
+    {"Name": "Etave Clinical", "Location_Lat": 5.0 , "Location_Long": 5.0, "Telephone": (85) 32560101, "City": "Fortaleza-CE" , "Address": "Av. Luciano Carneiro, 841 - Fatima"  }
   ],
   
   "Server":[
